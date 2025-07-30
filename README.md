@@ -1,2 +1,3 @@
 # NotificationSender
-its a very simple plugin and my very first.
+
+Made from https://github.com/SteamDeckHomebrew/decky-plugin-template.
