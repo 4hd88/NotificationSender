@@ -6,6 +6,6 @@
   "publish": {
     "tags": ["notification", "sender", "useless"],
     "description": "A simple plugin that sends a Notification. Its useless, but it works.",
-    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+    "image": "https://raw.githubusercontent.com/4hd88/NotificationSender/refs/heads/main/assets/plugin_photo_ai.png"
   }
 }
