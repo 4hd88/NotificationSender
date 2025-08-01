@@ -1,0 +1,11 @@
+{
+  "name": "Notification Sender",
+  "author": "4hd8",
+  "flags": ["debug"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["notification", "sender", "useless"],
+    "description": "A simple plugin that sends a Notification. Its useless, but it works.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}
